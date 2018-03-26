@@ -1,0 +1,56 @@
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\bin\Debug\ManagerOfFiles.exe.config
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles_MarkupCompile.cache
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles_MarkupCompile.lref
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\bin\Debug\ManagerOfFiles.exe
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\bin\Debug\ManagerOfFiles.pdb
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.g.resources
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.Properties.Resources.resources
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.exe
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.pdb
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\obj\Debug\View\ViewOfListItems.g.cs
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\obj\Debug\View\ViewOfListItems.baml
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\bin\Debug\DirectoryCopyExample.dll
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\ManagerOfFiles\bin\Debug\DirectoryCopyExample.pdb
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\bin\Debug\ManagerOfFiles.exe.config
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\bin\Debug\ManagerOfFiles.exe
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\bin\Debug\ManagerOfFiles.pdb
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\bin\Debug\DirectoryCopyExample.dll
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\bin\Debug\DirectoryCopyExample.pdb
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\MainWindow.g.cs
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\View\ViewOfListItems.g.cs
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\App.g.cs
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles_MarkupCompile.cache
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles_MarkupCompile.lref
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\MainWindow.baml
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\View\ViewOfListItems.baml
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.g.resources
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.Properties.Resources.resources
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.csproj.GenerateResource.Cache
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.exe
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.pdb
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\bin\Debug\ManagerOfFiles.exe.config
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\bin\Debug\ManagerOfFiles.exe
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\bin\Debug\ManagerOfFiles.pdb
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\bin\Debug\DirectoryCopyExample.dll
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\bin\Debug\DirectoryCopyExample.pdb
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\MainWindow.g.cs
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\View\ViewOfListItems.g.cs
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\App.g.cs
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles_MarkupCompile.cache
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles_MarkupCompile.lref
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\MainWindow.baml
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\View\ViewOfListItems.baml
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.g.resources
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.Properties.Resources.resources
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.csproj.GenerateResource.cache
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.csproj.CoreCompileInputs.cache
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.csproj.CopyComplete
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.exe
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\ManagerOfFiles\obj\Debug\ManagerOfFiles.pdb

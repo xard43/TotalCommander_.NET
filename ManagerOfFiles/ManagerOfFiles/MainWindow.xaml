@@ -1,0 +1,31 @@
+﻿<Window x:Class="ManagerOfFiles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ManagerOfFiles"
+        mc:Ignorable="d"
+        Title="Total Comander By Marek" Height="600" Width="1100">
+    <Grid>
+
+        <ListBox x:Name="listBoxNumber1" HorizontalAlignment="Left" Height="430" Margin="10,124,0,0" VerticalAlignment="Top" Width="525" Grid.ColumnSpan="3" />
+        <ListBox x:Name="listBoxNumber2" HorizontalAlignment="Right" Height="430" Margin="0,124,10,0" VerticalAlignment="Top" Width="525" Grid.Column="2"  />
+        <TextBox x:Name="NameOfNewDir" HorizontalAlignment="Left" Height="20" Margin="405,43,0,0" TextWrapping="Wrap" Text="Podaj Nazwe" VerticalAlignment="Top" Width="284"  />
+        <TextBox x:Name="textBoxPathNum1" HorizontalAlignment="Left" Height="20" Margin="87,99,0,0" TextWrapping="NoWrap"  Text="C:\Users" VerticalAlignment="Top" Width="354"  />
+        <TextBox x:Name="textBoxPathNum2" HorizontalAlignment="Left" Height="20" Margin="631,100,0,0" TextWrapping="NoWrap" Text="C:\Users" VerticalAlignment="Top" Width="349"/>
+        <Button x:Name="ShowDiscElements1" Content="Wylistuj" HorizontalAlignment="Left" Height="20" Margin="446,99,0,0" VerticalAlignment="Top" Width="89" Click="ShowDiscElements1_Click" RenderTransformOrigin="1.164,1.158"/>
+        <Button x:Name="ShowDiscElements2" Content="Wylistuj" HorizontalAlignment="Left" Height="20" Margin="985,99,0,0" VerticalAlignment="Top" Width="89" Click="ShowDiscElements2_Click"/>
+        <Button x:Name="AddNewDir" Content="Utwórz Nowy Folder" HorizontalAlignment="Left" Height="24" Margin="268,6,0,0" VerticalAlignment="Top" Width="132" Click="CreateNewDir"/>
+        <TextBox x:Name="PathNewDir" HorizontalAlignment="Left" Height="36" Margin="405,6,0,0" TextWrapping="Wrap" Text="Podaj ścieżkę katalogu" VerticalAlignment="Top" Width="284"/>
+        <Button x:Name="backPage1" Content="back" HorizontalAlignment="Left" Height="20" Margin="10,99,0,0" VerticalAlignment="Top" Width="72" Click="backPage1_Click"/>
+        <Button x:Name="backPage2" Content="back" HorizontalAlignment="Left" Height="20" Margin="549,100,0,0" VerticalAlignment="Top" Width="77" Click="backPage2_Click"/>
+        <Button x:Name="SearchElement" Content="Wyszukaj" HorizontalAlignment="Left" Height="24" Margin="694,6,0,0" VerticalAlignment="Top" Width="132" Click="SearchElement_Click"/>
+        <Button x:Name="button" Content="Kopiuj" HorizontalAlignment="Left" Height="27" Margin="713,39,0,0" VerticalAlignment="Top" Width="84"  Click="button_Click" />
+        <Button x:Name="buttonEdit" Content="Edytuj" HorizontalAlignment="Left" Height="27" Margin="289,39,0,0" VerticalAlignment="Top" Width="84" Click="buttonEdit_Click"/>
+        <Button x:Name="buttonSortByName" Content="Sortuj po nazwie" HorizontalAlignment="Left" Height="21" Margin="11,37,0,0" VerticalAlignment="Top" Width="97" Click="buttonSortByName_Click" RenderTransformOrigin="0.577,0.571"/>
+        <Button x:Name="buttonSoryByCreationTime" Content="Sortuj po dacie" HorizontalAlignment="Left" Height="21" Margin="10,63,0,0" VerticalAlignment="Top" Width="106" Click="buttonSoryByCreationTime_Click"/>
+        <Button x:Name="buttonSortByNameList2" Content="sortuj po nazwie" HorizontalAlignment="Left" Height="21" Margin="977,37,0,0" VerticalAlignment="Top" Width="97" Click="buttonSortByNameList2_Click"/>
+        <Button x:Name="buttonSoryByCreationTimeList2" Content="sortuj po dacie" HorizontalAlignment="Left" Height="21" Margin="968,63,0,0" VerticalAlignment="Top" Width="106" Click="buttonSoryByCreationTimeList2_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\DirectoryCopyExample\bin\Debug\DirectoryCopyExample.dll
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\DirectoryCopyExample\bin\Debug\DirectoryCopyExample.pdb
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\DirectoryCopyExample\obj\Debug\DirectoryCopyExample.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\DirectoryCopyExample\obj\Debug\DirectoryCopyExample.dll
+C:\Users\user\Desktop\Oficjalny projekt na programowanie obiektowe\ManagerOfFiles\DirectoryCopyExample\obj\Debug\DirectoryCopyExample.pdb
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\DirectoryCopyExample\bin\Debug\DirectoryCopyExample.dll
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\DirectoryCopyExample\bin\Debug\DirectoryCopyExample.pdb
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\DirectoryCopyExample\obj\Debug\DirectoryCopyExample.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\DirectoryCopyExample\obj\Debug\DirectoryCopyExample.dll
+C:\Users\Marek\Desktop\Programy z programwania\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\DirectoryCopyExample\obj\Debug\DirectoryCopyExample.pdb
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\DirectoryCopyExample\bin\Debug\DirectoryCopyExample.dll
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\DirectoryCopyExample\bin\Debug\DirectoryCopyExample.pdb
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\DirectoryCopyExample\obj\Debug\DirectoryCopyExample.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\DirectoryCopyExample\obj\Debug\DirectoryCopyExample.csproj.CoreCompileInputs.cache
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\DirectoryCopyExample\obj\Debug\DirectoryCopyExample.dll
+C:\Users\Marek\Desktop\Wszystkie Semestry UAM\MojeDziełaProgramistyczne\C#\Total Commander ( Menager plików, projekt z Krzywdzińskim )\ManagerOfFiles\DirectoryCopyExample\obj\Debug\DirectoryCopyExample.pdb
